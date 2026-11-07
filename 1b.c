@@ -9,6 +9,6 @@ int main() {
     double c = 10;
     double d = 3;
 
-    printf("%f\n", c / d); // Integer division, result is 3.333333
+    printf("%f\n", c / d); // Decimal division, result is 3.333333
     return 0;
 }
